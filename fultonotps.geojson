@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "fultonotps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name1": "USP Atlanta", "name2": null, "street1": "601 McDonough Blvd SE", "street2": null, "city": "Atlanta", "state": "GA", "zip": 30315, "zip4": null, "county": null, "phone": null, "intake_prompt": null, "intake1": null, "intake2": null, "website": null, "latitude": 33.711691, "longitude": -84.371074, "type_facility": "OTP" }, "geometry": { "type": "Point", "coordinates": [ -84.371074, 33.711691 ] } },
+{ "type": "Feature", "properties": { "name1": "New Day Treatment Center, Inc.", "name2": null, "street1": "2563 Martin Luther King Jr. Drive", "street2": null, "city": "Atlanta", "state": "GA", "zip": 30311, "zip4": null, "county": null, "phone": "(404) 699-7774", "intake_prompt": null, "intake1": null, "intake2": null, "website": null, "latitude": 33.7537205, "longitude": -84.4718254, "type_facility": "OTP" }, "geometry": { "type": "Point", "coordinates": [ -84.4718254, 33.7537205 ] } },
+{ "type": "Feature", "properties": { "name1": "The Renaissance Recovery Group", "name2": "North Fulton Treatment Center", "street1": "601 Bombay Lane", "street2": null, "city": "Roswell", "state": "GA", "zip": 30076, "zip4": null, "county": null, "phone": "(770) 754-4674", "intake_prompt": null, "intake1": null, "intake2": null, "website": null, "latitude": 34.055049, "longitude": -84.335477, "type_facility": "OTP" }, "geometry": { "type": "Point", "coordinates": [ -84.335477, 34.055049 ] } }
+]
+}
